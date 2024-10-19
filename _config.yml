@@ -9,8 +9,8 @@
 locale                   : "en-IN"
 title                    : "Dr. P. Rajendra"
 title_separator          : "-"
-name                     : &name "Dr. P. Rajendra"
-description              : &description "Professor in Mathematics & Statistics"
+name                     : &name "Dr. P. Rajendra, Ph.D"
+description              : &description "Professor in Mathematics"
 url                      : https://rajendra-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rajendra-ai/rajendra-ai.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. P. Rajendra"
+  name             : "Dr. P. Rajendra, Ph.D"
   avatar           : "profile.jfif"
-  bio              : "Professor in Mathematics & Statistics"
+  bio              : "Professor in Mathematics"
   location         : 
   employer         : "CMRIT, Bengaluru"
   pubmed           :
