@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-IN"
+locale                   : "en-US"
 title                    : "Rajendra"
 title_separator          : "-"
 name                     : &name "Dr. P. Rajendra"
 description              : &description "Professor in Mathematics & Statistics"
 url                      : https://rajendra-ai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rajendra-ai/rajendra-ai.github.io"
+repository               : "rajendra-ai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
