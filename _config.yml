@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-IN"
-title                    : "Dr.P.Rajendra"
+title                    : "Dr. P. Rajendra"
 title_separator          : "-"
-name                     : &name "Dr.P.Rajendra"
+name                     : &name "Dr. P. Rajendra"
 description              : &description "Professor at CMRIT, Bengaluru"
 url                      : https://rajendra-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
